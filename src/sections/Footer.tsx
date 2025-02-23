@@ -3,15 +3,7 @@ import ArrowUpRightIcon from "@assets/icons/arrow-up-right.svg";
 const footerLinks = [
   {
     title: "LinkedIn",
-    href: "/",
-  },
-  {
-    title: "Facebook",
-    href: "/",
-  },
-  {
-    title: "Instagram",
-    href: "/",
+    href: "https://www.linkedin.com/in/adeel-farooq-1694221b6",
   },
   {
     title: "Github",
